@@ -10,6 +10,7 @@ This is a meta-repository for the whole Lisn family.
 - [Lisn Server] - server written in [Go]
 - [Lisn Web App] - web app written in [Vue.js]
 - [Morty CD] - tool for [Continuous Deployment]
+- [sharpvik/mux] - multiplexer used by [Lisn Server] for routing purposes
 
 [Lisn Design]: https://github.com/sharpvik/lisn-design
 [Lisn Server]: https://github.com/sharpvik/lisn-server
