@@ -16,6 +16,7 @@ This is a meta-repository for the whole Lisn family.
 [Lisn Server]: https://github.com/sharpvik/lisn-server
 [Lisn Web App]: https://github.com/sharpvik/lisn-web-app
 [Morty CD]: https://github.com/sharpvik/morty-cd
+[sharpvik/mux]: https://github.com/sharpvik/mux
 
 [Go]: https://golang.org
 [Vue.js]: https://vuejs.org
