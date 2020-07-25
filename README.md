@@ -12,9 +12,9 @@ This is a meta-repository for the whole Lisn family.
 - [Morty CD] - tool for [Continuous Deployment]
 - [sharpvik/mux] - multiplexer used by [Lisn Server] for routing purposes
 
-[Lisn Design]: https://github.com/sharpvik/lisn-design
-[Lisn Server]: https://github.com/sharpvik/lisn-server
-[Lisn Web App]: https://github.com/sharpvik/lisn-web-app
+[Lisn Design]: https://github.com/Lisn-Rocks/design
+[Lisn Server]: https://github.com/Lisn-Rocks/server
+[Lisn Web App]: https://github.com/Lisn-Rocks/web-app
 [Morty CD]: https://github.com/sharpvik/morty-cd
 [sharpvik/mux]: https://github.com/sharpvik/mux
 
